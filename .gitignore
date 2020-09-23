@@ -1,1 +1,6 @@
-!.gitignore
+# Ignore everything
+*
+
+# Except 
+!*.ipynb
+!README.md
